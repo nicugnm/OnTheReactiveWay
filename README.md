@@ -1,7 +1,9 @@
-# OnTheReactiveWay
-This repository contains more articles or courses in order to learn reactive way of spring and things that I planned for future to learn on this subject.
+# WayOfLearning
+This repository contains more articles or courses that I want to learn about, using spring.
 
-# Articles & Courses
+# Articles & Courses 
+
+- Reactive
 * [ ] More on Java Concurrency - Udemy Course that can be found [here](https://www.udemy.com/course/java-multithreading-and-parallel-programming-masterclass)
 * [ ] More on Threads on low level - Udemy Course that can be found [here](https://udemy.com/course/java-multithreading-concurrency-performance-optimization)
 * [ ] Parallel Computation and MapReduce in Java + Fork-Join - Udemy Course that can be found [here](https://udemy.com/course/multithreading-and-parallel-computing-in-java)
@@ -10,3 +12,16 @@ This repository contains more articles or courses in order to learn reactive way
 * [ ] Non-Blocking Spring Boot with Kotlin Coroutines - [here](https://www.baeldung.com/kotlin/spring-boot-kotlin-coroutines)
 * [ ] More on [here](https://www.baeldung.com/kotlin/kotlin-overview)
 * More soon....
+
+
+- Software Architecture
+* [ ] Methodology: [here](https://magdamiu.com/2021/02/22/software-architecture-methodology/)
+* [ ] Reliability, Scalability & Maintainability: [here](https://magdamiu.com/2022/09/10/reliability-scalability-maintainability/)
+* More soon...
+
+
+- Caching
+* [ ] Query Hints: [here](https://thorben-janssen.com/11-jpa-hibernate-query-hints-every-developer-know/)
+* [ ] Difference between Entity Cache and Object Cache [here](https://stackoverflow.com/questions/70992625/hibernate-cache-vs-spring-cache) and [here](https://stackoverflow.com/questions/27925870/whats-difference-between-hibernate-caching-and-spring-framework-cache)
+* [ ] Hibernate Second Level Cache: [here](https://www.baeldung.com/hibernate-second-level-cache)
+* More soon...
