@@ -16,7 +16,7 @@ This repository contains more articles or courses that I want to learn about, us
 
 - Software Architecture
 * [ ] Methodology: [here](https://magdamiu.com/2021/02/22/software-architecture-methodology/)
-* [ ] Reliability, Scalability & Maintainability: [here](https://magdamiu.com/2022/09/10/reliability-scalability-maintainability/)
+* [X] Reliability, Scalability & Maintainability: [here](https://magdamiu.com/2022/09/10/reliability-scalability-maintainability/)
 * More soon...
 
 
